@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="bk">images/background.jpg</file>
+        <file alias="bks">backgroundsheets.jpg</file>
+        <file>1.jpg</file>
+        <file>food.png</file>
+        <file alias="rest">123.jpg</file>
+        <file alias="tbk">timg.jpg</file>
+        <file alias="gbk">timgQZP7891B.jpg</file>
+        <file alias="over">u=2879719523,3689116735&amp;fm=26&amp;gp=0.jpg</file>
+        <file alias="start">4.png</file>
+        <file alias="help">1.png</file>
+        <file alias="exit">5.png</file>
+        <file alias="head">7.png</file>
+        <file alias="letterhelp">QQ图片20170611235743.png</file>
+        <file alias="letterstart">QQ图片20170611235749.png</file>
+        <file alias="letterexit">QQ图片20170611235755.png</file>
+        <file alias="star">timg25ITAQ5I.png</file>
+        <file>s.mp3</file>
+        <file alias="help_hover">1_hover.png</file>
+        <file alias="exit_hover">5_hover.png</file>
+        <file alias="start_hover">4_hover.png</file>
+    </qresource>
+</RCC>
